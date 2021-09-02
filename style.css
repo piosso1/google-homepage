@@ -42,7 +42,8 @@ body {
   min-height: 150px;
   max-height: 290px;
   flex-direction: column;
-  padding-top: 1px;
+  padding-top: 50px;
+  margin-top: 10px;
 }
 .mainBody img {
   object-fit: contain;
@@ -90,7 +91,7 @@ body {
 .other_languge {
   display: flex;
   justify-content: center;
-  padding-top: 8px;
+  padding-top: 3%;
   font-size: small;
 }
 .other_lan2 a {
@@ -156,8 +157,9 @@ body {
 }
 .footer_about {
   padding-left: 20px;
+  padding-bottom: 6px;
 }
 .main_foot {
-  padding-top: 1px;
-  margin-top: 10vh;
+  padding-top: 5%;
+  margin-top: 12vh;
 }
